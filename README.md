@@ -28,6 +28,7 @@ class PradheepRaja:
         self.focus      = ["Web App Pentesting", "AI/ML Security"]
         self.platforms  = ["LeetCode", "HackerOne", "TryHackMe"]
         self.hobbies    = ["CTFs", "Red Teaming", "Research", "Coffee ☕"]
+        self.internship = ["AI/ML Engineering", "Cyber Security"]
         self.motto      = "👑 Royal Mindset. Hacker Soul."
 
     def current_mission(self):
@@ -142,9 +143,21 @@ print(me.current_mission())
 
 <div align="center">
 
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-%23FFD700?style=for-the-badge&logo=ec-council&logoColor=0a0a0a)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25-%23FFD700?style=for-the-badge&logo=tryhackme&logoColor=0a0a0a)
-![OWASP](https://img.shields.io/badge/OWASP-Contributor-%23FFD700?style=for-the-badge&logo=owasp&logoColor=0a0a0a)
+![eJPT](https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-%23FFD700?style=for-the-badge&logo=hackthebox&logoColor=0a0a0a)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%2020-%23FFD700?style=for-the-badge&logo=tryhackme&logoColor=0a0a0a)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 💼 Internship Experience
+
+<div align="center">
+
+| 🏢 Role | 🔬 Domain | 📅 Type |
+|:---:|:---:|:---:|
+| 🤖 AI / ML Engineer Intern | Artificial Intelligence & Machine Learning | 🟢 Completed |
+| 🛡️ Cyber Security Intern | Penetration Testing & Security Research | 🟢 Completed |
 
 </div>
 
@@ -173,3 +186,4 @@ print(me.current_mission())
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a1f00,100:0a0a0a&height=120&section=footer&fontColor=FFD700"/>
 </div>
+
