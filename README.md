@@ -125,15 +125,18 @@ print(me.current_mission())
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🐍 Contribution Snake
+## 🌊 Contribution Wave
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pradheepraja/Pradheepraja/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pradheepraja/Pradheepraja/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pradheepraja/Pradheepraja/output/github-contribution-grid-snake.svg">
-</picture>
+![Contribution Wave](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pradheepraja&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pradheepraja&theme=github_dark)&nbsp;&nbsp;
+![Most Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pradheepraja&theme=github_dark)
 
 </div>
 
@@ -186,4 +189,3 @@ print(me.current_mission())
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a1f00,100:0a0a0a&height=120&section=footer&fontColor=FFD700"/>
 </div>
-
