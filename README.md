@@ -46,10 +46,10 @@ print(me.current_mission())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFD700.svg?style=for-the-badge&logo=linkedin&logoColor=0a0a0a)](https://www.linkedin.com/in/pradheepraja123/)&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFD700?style=for-the-badge&logo=leetcode&logoColor=0a0a0a)](https://leetcode.com/u/Pr4DH33Pr4J4/)&nbsp;&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FFD700?style=for-the-badge&logo=tryhackme&logoColor=0a0a0a)](https://tryhackme.com/p/Pr4DH33Pr4J4)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%23FFD700?style=for-the-badge&logo=github&logoColor=0a0a0a)](https://github.com/Pradheepraja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23D0AAFF.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pradheepraja123/)&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23C084FC?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/Pr4DH33Pr4J4/)&nbsp;&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23A855F7?style=for-the-badge&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/Pr4DH33Pr4J4)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23E9D5FF?style=for-the-badge&logo=github&logoColor=6B21A8)](https://github.com/Pradheepraja)
 
 </div>
 
@@ -173,4 +173,3 @@ print(me.current_mission())
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2a1f00,100:0a0a0a&height=120&section=footer&fontColor=FFD700"/>
 </div>
-
